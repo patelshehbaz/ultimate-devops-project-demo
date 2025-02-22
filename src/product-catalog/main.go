@@ -316,7 +316,5 @@ func createClient(ctx context.Context, svcAddr string) (*grpc.ClientConn, error)
 	)
 }
 
-
-
-
-
+// Copyright The OpenTelemetry Authors
+// SPDX-License-Identifier: Apache-2.0
